@@ -7,7 +7,6 @@
     "test": "test"
   },
   "devDependencies": {
-    "ava": "^0.23.0"
   },
   "scripts": {
     "test": "ava"
